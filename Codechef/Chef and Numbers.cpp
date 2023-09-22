@@ -7,6 +7,8 @@ int main()
     int t;
     scanf("%d",&t);
     while(t--){
+        // TODO : Explanation
+        
         int ele,n,i,continuous=0,maxChoice=0;
         scanf("%d",&n);
         map<int,int> choices;
